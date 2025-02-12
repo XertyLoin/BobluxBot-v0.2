@@ -11,4 +11,4 @@ What i have suppressed :
 
 ## Documentation
 
-[Here The documentation to use my bot i host](https://www.xycorpo.com/bobluxdev/bobluxbot/)
+[Here The documentation to use my bot](https://www.xycorpo.com/bobluxdev/bobluxbot/)
